@@ -1,2 +1,3 @@
 # HelloWord
-HelloWord
+git init
+
